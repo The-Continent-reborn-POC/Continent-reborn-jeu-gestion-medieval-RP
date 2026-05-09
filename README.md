@@ -30,7 +30,7 @@ L'ambition est double :
     </td>
     <td align="center" width="50%">
       <strong>Vision cible (en cours de conception)</strong><br/><br/>
-      <img src="https://i.postimg.cc/j2r2D4V8/Gemini-Generated-Image-fjax53fjax53fjax.png" alt="Vision de la nouvelle version de Continent" width="100%"/>
+      <img src="https://i.postimg.cc/XvrCd98g/image-NEXCONTINENT.png" alt="Vision de la nouvelle version de Continent" width="100%"/>
       <br/><em>Une refonte complète : design repensé de zéro, identité visuelle propre,<br/>gameplay enrichi et couche RP approfondie — fidèle à l'esprit, moderne dans la forme.</em>
     </td>
   </tr>
